@@ -1,0 +1,2 @@
+# OrderAutomation
+This is a Python script that will automatically fill out Chipotle orders for the ID Tech campers at the NYIT location. The script on here takes care of the automated ordering aspect using Selenium. The data that contains the orders is located on a google sheets document provided by the lead instructor for the NYIT location. Dumby data is provided within the script for testing. The data is extracted from Google sheets using gspread. As the Admin for this project, I hold the API key and code for the data to the orders.
